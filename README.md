@@ -428,12 +428,6 @@ Expected: Should handle numeric input
 ---
 
 
-## 📝 Assignment Details
-
-- **Course:** Introduction to Cryptography (ITC)
-- **Session:** July - December 2025
-- **Assignment:** Lab Assignment 4
-- **Deadline:** November 17, 2025
 - **Objective:** Implement RC4 algorithm in C, compile to WebAssembly, and create a Next.js frontend
 
 ---
@@ -549,3 +543,4 @@ If you encounter any issues during installation or usage:
 **Happy Coding! 🚀**
 
 *Last Updated: November 2025*
+
