@@ -390,19 +390,10 @@ export default function Home() {
           {/* Footer */}
           <div className="mt-8 pt-6 border-t border-white/10">
             <div className="text-center mb-4">
-              <h3 className="text-lg font-bold text-white mb-3">👥 Project Contributors</h3>
+              <h3 className="text-lg font-bold text-white mb-3">👥 Project Contributor</h3>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <div className="bg-white/5 backdrop-blur-sm rounded-lg p-3 border border-white/10">
-                  <p className="text-sm font-semibold text-blue-200">Abhishek Singh Dasila</p>
-                </div>
-                <div className="bg-white/5 backdrop-blur-sm rounded-lg p-3 border border-white/10">
                   <p className="text-sm font-semibold text-blue-200">Nilesh Kumar Nayak</p>
-                </div>
-                <div className="bg-white/5 backdrop-blur-sm rounded-lg p-3 border border-white/10">
-                  <p className="text-sm font-semibold text-blue-200">Prateek Choudhary</p>
-                </div>
-                <div className="bg-white/5 backdrop-blur-sm rounded-lg p-3 border border-white/10">
-                  <p className="text-sm font-semibold text-blue-200">Chetan Meshram</p>
                 </div>
               </div>
             </div>
