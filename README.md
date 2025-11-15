@@ -513,8 +513,6 @@ By completing this project, students learn:
 
 ## 📄 License
 
-© 2025 ITC Assignment 4. All rights reserved.
-
 This project is created for educational purposes as part of the Introduction to Cryptography course.
 
 ---
@@ -543,4 +541,5 @@ If you encounter any issues during installation or usage:
 **Happy Coding! 🚀**
 
 *Last Updated: November 2025*
+
 
